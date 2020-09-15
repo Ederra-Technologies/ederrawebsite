@@ -196,10 +196,7 @@ section
 	height: 625px;
 	padding-bottom: 65px;
 }
-.v_slider_section_image
-{
-	
-}
+
 .v_slider_image
 {
 	position: absolute;
@@ -209,21 +206,10 @@ section
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
-	right: 0;
+	right: -80px;
 	box-shadow: 0px 45px 59px rgba(24, 29, 33, 0.23);
 }
-.v_slider_content
-{
-	
-}
-.v_slider_container
-{
-	
-}
-.v_slider
-{
-	
-}
+
 .v_slider_item
 {
 	border: none !important;
